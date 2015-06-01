@@ -1,0 +1,11 @@
+# 先设置默认行为
+* text=auto
+
+# 给不同文件单独设置
+*.php text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.coffee text eol=lf
+*.html text eol=lf
+*.png binary
+*.jpg binary
